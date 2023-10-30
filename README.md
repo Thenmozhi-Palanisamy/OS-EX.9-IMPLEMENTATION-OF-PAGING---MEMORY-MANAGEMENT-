@@ -7,12 +7,20 @@ To write a c program to implement Paging technique for memory management.
 ## ALGORITHM:
 
 1.Read all the necessary input from the keyboard.
-2.Pages - Logical memory is broken into fixed - sized blocks.
+
+2.Pages - Logical memory is broken into fixed - sized block
+
 3.Frames – Physical memory is broken into fixed – sized blocks.
+
 4.Calculate the physical address using the logical address
+
 5.Physical address = (Frame number * Frame size) + offset
+
 6.Display the physical address.
+
 7.Stop the process
+
+
 
 PROGRAM:
 ```
